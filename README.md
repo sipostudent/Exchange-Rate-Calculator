@@ -3,13 +3,13 @@
   <img src="img/exchange-rate-calculator.png" width="600">
   <br>
     <br>
-  JavaScript - Exchange Rate Calculator
+  JavaScript - Fetch API
   <br>
 </h1>
 
 <h3 align="center">Interactive Front End Development</h3>
 
-## Exchange Rate
+## Exchange Rate Calculator
 
 Select countries to get the exchange rate for a specific amount
 
